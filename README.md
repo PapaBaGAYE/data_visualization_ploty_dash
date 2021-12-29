@@ -31,3 +31,7 @@ Créer des callbacks pour permettre l’interactivité entre la question 1 et le
 10. Créer une courbe donnant la tendance des morts par jour
 11. En utilisant dash data-table donner le Top des pays qui on cumuler le plus de cas
 12. En utilisant dash data-table donner le Top des pays qui on cumuler le plus de morts
+
+<hr>
+
+Auteur : **@Papa Ba GAYE**
